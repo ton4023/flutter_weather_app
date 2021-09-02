@@ -3,7 +3,8 @@ import 'package:flutter_application_1/models/weather_models.dart';
 import 'package:http/http.dart' as http;
 
 class WeatherRepository {
-  //api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+ 
+  //api.openweathermap.org/data/2.5/weather?q=Songkhla&appid=52c3e90f55f196c4156176651e0a5696
 
   Future<Weather> getWeather() async {
     final queryParameters = {

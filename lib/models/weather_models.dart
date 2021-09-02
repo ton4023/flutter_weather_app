@@ -38,7 +38,7 @@ class Weather {
   final WeatherInfo weatherInfo;
 
   String get iconUrl =>
-      'https://openweathermap.org/img/wn/${weatherInfo.icon}@2x.png';
+      'https://openweathermap.org/img/wn/${weatherInfo.icon}@4x.png';
 
   Weather(
       {required this.cityName,

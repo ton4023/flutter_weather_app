@@ -2,6 +2,5 @@
 
 ## Example Screen
 
-- `raw.githubusercontent.com/ton4023/flutter_weather_app/blob/main/lib/screenshot/sc01.png?sanitize=true&raw=true`
 
-
+![alt text](https://github.com/ton4023/flutter_weather_app/blob/main/iib/screenshot/sc01.png?raw=true)
